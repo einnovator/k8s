@@ -1,3 +1,5 @@
+FROM alpine:3.11
+
 # Metadata
 LABEL org.label-schema.name="k8s" \
       org.label-schema.url="https://hub.docker.com/r/einnovator/k8s/" \
